@@ -63,7 +63,7 @@ global.location = "Egypt, Cairo, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['201098906252']
 global.ownertag = '201098906252' //ur tag number
-global.botname = '𝑩𝑶𝑻 𝑬𝑳𝑮𝑨𝒁𝑨𝑹🐼🍷 ٫' //ur bot name
+global.botname = joy boy👑🍷 ٫' //ur bot name
 global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
@@ -80,24 +80,24 @@ global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['201098906252'] //ur premium numbers
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.ntilinkytvid = [joy boy]
+global.ntilinkytch = [joy boy]
+global.ntilinkig = [joy boy]
+global.ntilinkfb = [joy boy]
+global.ntilinktg = [joy boy]
+global.ntilinktt = [joy boy]
+global.ntilinktwt = [joy boy]
+global.ntilinkall = [joy boy]
+global.nticall = [joy boy]
+global.ntwame = [joy boy]
+global.nttoxic = [joy boy]
+global.ntnsfw = [joy boy]
+global.ntvirtex = [joy boy]
+global.rkyt = [joy boy]
+global.wlcm = [joy boy]
+global.gcrevoke = [joy boy]
+global.autorep = [joy boy]
+global.ntilink = [joy boy]
 
 //omther
 global.sessionName = 'session'
